@@ -13,6 +13,6 @@ jobs:
         run: |
           curl -X POST https://ntfy.sh/devops-itla \
             -H "Title: Nuevo push a main" \
-            -d "Se ha subido código al repositorio 🚀"
+            -d "Se ha subido código al repositorio"
 
 
